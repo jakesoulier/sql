@@ -2,7 +2,7 @@
 This in an introduction to the language of SQL.  Specifically using MySQL.  I demostrate this by working with a database of lacrosse data from the PLL & MLL (two professional lacrosse leagues)
 
 
-[SQL demo](https://www.youtube.com/)
+[SQL demo](https://youtu.be/81Rqcfu_hb8)
 
 # Development Environment
 
