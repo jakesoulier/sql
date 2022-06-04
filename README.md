@@ -11,7 +11,7 @@ I use MySQL inside of MySQL workbench.
 # Useful Websites
 
 * [W3 Schools SQL](https://www.w3schools.com/sql/)
-* [kaggle]([https://stackoverflow.com/](https://www.kaggle.com/))
+* [kaggle](https://www.kaggle.com/))
 
 # Future Work
 
